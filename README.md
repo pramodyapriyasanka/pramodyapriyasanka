@@ -19,9 +19,7 @@ I am a **Data Engineer**,**Data Analyst**, **Business Analyst**, and **AI/ML Spe
 
 
 # 🐍 Contribution Snake:
-<p align="left">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=pramodyapriyasanka&color_snake=%238a2be2&bg=%231a1a1a" alt="Snake Animation" />
-</p>
+![Snake Animation](https://raw.githubusercontent.com/pramodyapriyasanka/pramodyapriyasanka/output/github-contribution-grid-snake.svg)
 
 # 📈 Activity Graph:
 <p align="left">
