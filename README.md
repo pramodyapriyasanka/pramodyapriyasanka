@@ -3,7 +3,7 @@
 
 I am a **Data Engineer**,**Data Analyst**, **Business Analyst**, and **AI/ML Specialist** dedicated to architecting intelligent infrastructure and data-driven solutions. I specialize in bridging the gap between complex data ecosystems and strategic business value. 
 
-* 🔭 **Current Focus**: Architecting the "AI-Immune Data Fortress" on AWS.
+
 * 👯 **Collaboration**: Open to advanced Data Engineering and AI-driven business automation projects.
 * 🤝 **Inquiry**: Integrating Web3 data architectures with AI/BI frameworks.
 * 🌱 **Continuous Learning**: Deep learning for predictive maintenance and advanced credit risk modeling.
