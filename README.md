@@ -1,5 +1,5 @@
 #💫 About Me:
-### Hi there, I'm Pramodya Priyasanka! 👋 
+### Hi there, I'm Pramodya Priyasanka!👋 
 
 I am a **Data Engineer**,**Data Analyst**, **Business Analyst**, and **AI/ML Specialist** dedicated to architecting intelligent infrastructure and data-driven solutions. I specialize in bridging the gap between complex data ecosystems and strategic business value. 
 
