@@ -1,4 +1,4 @@
-#💫 About Me:
+💫 About Me:
 
 ### Hi there, I'm Pramodya Priyasanka!👋 
 
